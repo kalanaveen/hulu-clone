@@ -1,3 +1,12 @@
+A hulu clone created with help reactjs.In this app a beautifull animations used on hover.Also we are fetching all data from api with help of axios.
+And we used different categories for movies filter.
+
+home page 
+
+![image](https://user-images.githubusercontent.com/34640475/122668716-00693200-d1d7-11eb-9651-c33d2deebe97.png)
+![image](https://user-images.githubusercontent.com/34640475/122668735-1bd43d00-d1d7-11eb-90b5-3688ed72a7a9.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
